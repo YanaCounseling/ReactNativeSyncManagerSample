@@ -28,18 +28,18 @@ Make sure to use Node 8.17.0.
 
         react-native unlink react-native-vector-icons
 
-3. (iOS only) Pod install.
+4. (iOS only) Pod install.
 
         cd ios
         pod install
 
-4. (iOS only) Add library in XCode.
+5. (iOS only) Add library in XCode.
 
 - Open XCode and load workspace.
 - Change Build System to Legacy Build System in File > Workspace Settings > Build System.
 - Keep XCode open during the build and deploy process; clean the build using XCode if caching issues arise preventing a full build.
 
-5. Run the sample. Before starting, you should launch device emulator (or actual device) to run the sample in Android. This sample is not available for real device in iOS due to Apple Development Policy. In order to run React Native sample in real device, follow [React Native official guide](https://facebook.github.io/react-native/docs/running-on-device.html) for your own setup.
+6. Run the sample. Before starting, you should launch device emulator (or actual device) to run the sample in Android. This sample is not available for real device in iOS due to Apple Development Policy. In order to run React Native sample in real device, follow [React Native official guide](https://facebook.github.io/react-native/docs/running-on-device.html) for your own setup.
 
         react-native run-android
         react-native run-ios

@@ -1,0 +1,20 @@
+{
+    "default": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactnativesyncmanag-default-93829-authRole",
+            "UnauthRoleArn": "arn:aws:iam::738868954628:role/amplify-reactnativesyncmanag-default-93829-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::738868954628:role/amplify-reactnativesyncmanag-default-93829-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-reactnativesyncmanag-default-93829-deployment",
+            "UnauthRoleName": "amplify-reactnativesyncmanag-default-93829-unauthRole",
+            "StackName": "amplify-reactnativesyncmanag-default-93829",
+            "StackId": "arn:aws:cloudformation:us-east-1:738868954628:stack/amplify-reactnativesyncmanag-default-93829/f1f5bfa0-74f7-11ea-bed7-0ed24b955b13",
+            "AmplifyAppId": "d1s9805xshdebc"
+        },
+        "categories": {
+            "auth": {
+                "reactnativesyncmanag9fa4565b": {}
+            }
+        }
+    }
+}

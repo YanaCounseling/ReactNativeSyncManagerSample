@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"reactnativesyncmanag9fa4565b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

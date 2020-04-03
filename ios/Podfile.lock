@@ -98,7 +98,10 @@ PODS:
     - GoogleUtilities/Logger
   - GoogleUtilities/UserDefaults (6.5.2):
     - GoogleUtilities/Logger
+<<<<<<< HEAD
   - JKBigInteger2 (0.0.5)
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   - nanopb (0.3.9011):
     - nanopb/decode (= 0.3.9011)
     - nanopb/encode (= 0.3.9011)
@@ -271,10 +274,13 @@ PODS:
   - React-jsinspector (0.61.2)
   - react-native-image-picker (1.1.0):
     - React
+<<<<<<< HEAD
   - react-native-netinfo (5.7.0):
     - React
   - react-native-safe-area-context (0.7.3):
     - React
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   - react-native-video (4.4.5):
     - React
     - react-native-video/Video (= 4.4.5)
@@ -315,6 +321,7 @@ PODS:
     - React-cxxreact (= 0.61.2)
     - React-jsi (= 0.61.2)
     - ReactCommon/jscallinvoker (= 0.61.2)
+<<<<<<< HEAD
   - RNAWSCognito (4.2.0):
     - JKBigInteger2 (= 0.0.5)
     - React
@@ -322,6 +329,10 @@ PODS:
     - React
   - RNCMaskedView (0.1.7):
     - React
+=======
+  - RNCAsyncStorage (1.6.2):
+    - React
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   - RNFirebase (5.5.6):
     - Firebase/Core
     - React
@@ -331,6 +342,7 @@ PODS:
     - Fabric
     - Firebase/Core
     - React
+<<<<<<< HEAD
   - RNGestureHandler (1.6.1):
     - React
   - RNKeychain (5.0.1):
@@ -340,6 +352,15 @@ PODS:
   - RNReanimated (1.7.1):
     - React
   - RNScreens (2.4.0):
+=======
+  - RNGestureHandler (1.4.1):
+    - React
+  - RNPermissions (2.0.2):
+    - React
+  - RNReanimated (1.3.0):
+    - React
+  - RNScreens (2.0.0-alpha.3):
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
     - React
   - RNVectorIcons (6.6.0):
     - React
@@ -365,8 +386,11 @@ DEPENDENCIES:
   - React-jsiexecutor (from `../node_modules/react-native/ReactCommon/jsiexecutor`)
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
   - react-native-image-picker (from `../node_modules/react-native-image-picker`)
+<<<<<<< HEAD
   - "react-native-netinfo (from `../node_modules/@react-native-community/netinfo`)"
   - react-native-safe-area-context (from `../node_modules/react-native-safe-area-context`)
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   - react-native-video (from `../node_modules/react-native-video`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
   - React-RCTAnimation (from `../node_modules/react-native/Libraries/NativeAnimation`)
@@ -379,12 +403,18 @@ DEPENDENCIES:
   - React-RCTVibration (from `../node_modules/react-native/Libraries/Vibration`)
   - ReactCommon/jscallinvoker (from `../node_modules/react-native/ReactCommon`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
+<<<<<<< HEAD
   - RNAWSCognito (from `../node_modules/amazon-cognito-identity-js`)
   - "RNCAsyncStorage (from `../node_modules/@react-native-community/async-storage`)"
   - "RNCMaskedView (from `../node_modules/@react-native-community/masked-view`)"
   - RNFirebase (from `../node_modules/react-native-firebase/ios`)
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNKeychain (from `../node_modules/react-native-keychain`)
+=======
+  - "RNCAsyncStorage (from `../node_modules/@react-native-community/async-storage`)"
+  - RNFirebase (from `../node_modules/react-native-firebase/ios`)
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   - RNPermissions (from `../node_modules/react-native-permissions`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
@@ -409,7 +439,10 @@ SPEC REPOS:
     - GoogleDataTransport
     - GoogleDataTransportCCTSupport
     - GoogleUtilities
+<<<<<<< HEAD
     - JKBigInteger2
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
     - nanopb
     - PromisesObjC
     - Protobuf
@@ -445,10 +478,13 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/jsinspector"
   react-native-image-picker:
     :path: "../node_modules/react-native-image-picker"
+<<<<<<< HEAD
   react-native-netinfo:
     :path: "../node_modules/@react-native-community/netinfo"
   react-native-safe-area-context:
     :path: "../node_modules/react-native-safe-area-context"
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   react-native-video:
     :path: "../node_modules/react-native-video"
   React-RCTActionSheet:
@@ -471,18 +507,26 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/Libraries/Vibration"
   ReactCommon:
     :path: "../node_modules/react-native/ReactCommon"
+<<<<<<< HEAD
   RNAWSCognito:
     :path: "../node_modules/amazon-cognito-identity-js"
   RNCAsyncStorage:
     :path: "../node_modules/@react-native-community/async-storage"
   RNCMaskedView:
     :path: "../node_modules/@react-native-community/masked-view"
+=======
+  RNCAsyncStorage:
+    :path: "../node_modules/@react-native-community/async-storage"
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   RNFirebase:
     :path: "../node_modules/react-native-firebase/ios"
   RNGestureHandler:
     :path: "../node_modules/react-native-gesture-handler"
+<<<<<<< HEAD
   RNKeychain:
     :path: "../node_modules/react-native-keychain"
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   RNPermissions:
     :path: "../node_modules/react-native-permissions"
   RNReanimated:
@@ -516,7 +560,10 @@ SPEC CHECKSUMS:
   GoogleDataTransport: b29a21d813e906014ca16c00897827e40e4a24ab
   GoogleDataTransportCCTSupport: 6f15a89b0ca35d6fa523e1f752ef818588885988
   GoogleUtilities: ad0f3b691c67909d03a3327cc205222ab8f42e0e
+<<<<<<< HEAD
   JKBigInteger2: e91672035c42328c48b7dd015b66812ddf40ca9b
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
   PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
   Protobuf: 176220c526ad8bd09ab1fb40a978eac3fef665f7
@@ -529,10 +576,15 @@ SPEC CHECKSUMS:
   React-jsi: 32285a21b1b24c36060493ed3057a34677d58d09
   React-jsiexecutor: 8909917ff7d8f21a57e443a866fd8d4560e50c65
   React-jsinspector: 111d7d342b07a904c400592e02a2b958f1098b60
+<<<<<<< HEAD
   react-native-image-picker: 7a85cf7b0a53845f03ae52fb4592a2748ded069b
   react-native-netinfo: becc6dd2bb2335aa85a8adbaefc8e206125e6177
   react-native-safe-area-context: e200d4433aba6b7e60b52da5f37af11f7a0b0392
   react-native-video: eee541262ada11bc7ffe8ec5508e6a877937c462
+=======
+  react-native-image-picker: 3637d63fef7e32a230141ab4660d3ceb773c824f
+  react-native-video: aa527b0acb37f94c4491e70df0274cb26979405d
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   React-RCTActionSheet: 89b037c0fb7d2671607cb645760164e7e0c013f6
   React-RCTAnimation: e3cefa93c38c004c318f7ec04b883eb14b8b8235
   React-RCTBlob: d26ac0e313fbf14e7203473fd593ccaaeee8329e
@@ -543,6 +595,7 @@ SPEC CHECKSUMS:
   React-RCTText: e3ef6191cdb627855ff7fe8fa0c1e14094967fb8
   React-RCTVibration: fb54c732fd20405a76598e431aa2f8c2bf527de9
   ReactCommon: 5848032ed2f274fcb40f6b9ec24067787c42d479
+<<<<<<< HEAD
   RNAWSCognito: 0dd61839fd82ce7bf93adaa6344126c18cd3a3da
   RNCAsyncStorage: 60a80e72d95bf02a01cace55d3697d9724f0d77f
   RNCMaskedView: 76c40a1d41c3e2535df09246a2b5487f04de0814
@@ -556,5 +609,17 @@ SPEC CHECKSUMS:
   Yoga: 14927e37bd25376d216b150ab2a561773d57911f
 
 PODFILE CHECKSUM: 36942376d0bf1d86df559d7f199023fbdfa77223
+=======
+  RNCAsyncStorage: 5ae4d57458804e99f73d427214442a6b10a53856
+  RNFirebase: ac0de8b24c6f91ae9459575491ed6a77327619c6
+  RNGestureHandler: 4cb47a93019c1a201df2644413a0a1569a51c8aa
+  RNPermissions: 76d6d5a65496b33378afe4b90ae5b30629ddd900
+  RNReanimated: 6abbbae2e5e72609d85aabd92a982a94566885f1
+  RNScreens: 402a99b0a27c0c32f079cec12d3ccbd35e20cd7f
+  RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
+  Yoga: 14927e37bd25376d216b150ab2a561773d57911f
+
+PODFILE CHECKSUM: 868bb06acf3380d76dd0c67b2121280dce572cf3
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
 
 COCOAPODS: 1.8.4

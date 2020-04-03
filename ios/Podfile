@@ -21,6 +21,10 @@ target 'ReactNativeSyncManagerSample' do
   pod 'React-RCTText', :path => '../node_modules/react-native/Libraries/Text'
   pod 'React-RCTVibration', :path => '../node_modules/react-native/Libraries/Vibration'
   pod 'React-Core/RCTWebSocket', :path => '../node_modules/react-native/'
+<<<<<<< HEAD
+=======
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
 
   pod 'React-cxxreact', :path => '../node_modules/react-native/ReactCommon/cxxreact'
   pod 'React-jsi', :path => '../node_modules/react-native/ReactCommon/jsi'
@@ -37,8 +41,11 @@ target 'ReactNativeSyncManagerSample' do
   pod 'Firebase/Core'
   pod 'Firebase/Messaging'
 
+<<<<<<< HEAD
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+=======
+>>>>>>> ae1f54a1aed3dfbcc082538180b10c20ca83610d
   target 'ReactNativeSyncManagerSampleTests' do
     inherit! :search_paths
     # Pods for testing

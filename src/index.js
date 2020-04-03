@@ -43,7 +43,7 @@ Amplify.configure({
 })
 
 const signUpConfig = {
-  hideAllDefaults: true,
+  hideAllDefaults: false,
   signUpFields: [
     {
       label: 'Email',
